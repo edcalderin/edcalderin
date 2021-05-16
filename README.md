@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edcalderin. I'm systems Engineer with experience in Software Engineering. Actually, I am seeking of Data Science projects since it's my new afition
+- 👋 Hi, I’m @edcalderin. I'm systems Engineer with experience in Software Engineering. Actually, I am searching of Data Science projects since it's my new afition
 - 👀 I’m interested in Data Science, those topics linked to Machine Learning, Deep Learning, Audio Mining, Big Data, and so on.
 - 🌱 I’m currently learning Deep Learning and Audio Mining through courses and papers.
 - 💞️ I’m looking to collaborate on challenger projects supported by Data Science.
